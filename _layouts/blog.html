@@ -8,17 +8,20 @@
 </head>
 <body>
  
+{% include head.html %}
+
+<!-- 
 <div class="top-bar">
 <div class="top-bar-left">
 <ul class="menu">
 <li class="menu-text">Dhruv Mittal</li>
-<!-- <li><a href="#">One</a></li>
+<li><a href="#">One</a></li>
 <li><a href="#">Two</a></li>
 <li><a href="#">Three</a></li>
--->
 </ul>
 </div>
 </div>
+-->
  
 <div class="callout large primary">
 <div class="row column text-center">
@@ -27,8 +30,10 @@
 </div>
 </div>
 
-<div class="row medium-8 large-7 columns">
-{{ content }}
+<div class="page-content">
+  <div class="wrapper">
+        {{ content }}
+  </div>
 </div>
 
 
