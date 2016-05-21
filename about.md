@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-##Who am I?
+## Who am I?
 
 We cut immediately to the unanswerable questions, don't we? I can try to field this in terms of things I do, I suppose. 
 
@@ -28,6 +28,6 @@ I'm currently a masters student at Stony Brook University, studying physics. I c
 
 [linkedin]:https://www.linkedin.com/in/dhruv-mittal-5305b661
 
-##Why a blog though?
+## Why a blog though?
 
 Who knows? We'll see if this goes anywhere. 
