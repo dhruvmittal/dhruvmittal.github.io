@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'Nord';
+	src: url(/css/font/Nord/03_Font_Files/NordRegular.ttf) format('truetype');
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Nord';
+	src: url(/css/font/Nord/03_Font_Files/NordBold.ttf) format('truetype');
+	font-weight: bold;
+}
+@font-face {
+	font-family: 'Nord';
+	src: url(/css/font/Nord/03_Font_Files/NordLight.ttf) format('truetype');
+	font-weight: light;
+}
+@font-face {
+	font-family: 'Nord';
+	src: url(/css/font/Nord/03_Font_Files/NordMedium.ttf) format('truetype');
+	font-weight: medium;
+}
